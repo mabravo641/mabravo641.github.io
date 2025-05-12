@@ -19,10 +19,7 @@ My research focuses on advancing vision-language models for open-vocabulary reco
   - Human-Aligned AI: Development of AI systems that align with human preferences for improved interaction and collaboration, including building user studies to validate this alignment.
   - AI Generation: Advancing image and text generation, with a focus on aligning both modalities effectively.
   - Dataset, benchmark, and evaluation: Creating datasets and benchmarks for evaluating the performance of vision-language models.
-  - Weakly-Supervised and Multimodal Learning: Leveraging weakly supervised learning for grounding visual and textual data.
-  <!-- - Semantic Segmentation: Developing techniques for pixel-level classification in images and videos.
-  - Video Object Segmentation: Advancing the segmentation of objects in dynamic video content.
-  - Biomedical Image Processing: Applying AI techniques to analyze and interpret medical images. -->
+  - Weakly-Supervised and Multimodal Learning: Leveraging weakly supervised learning for grounding visual and textual data
 
 ## Quick Facts
 
