@@ -20,9 +20,9 @@ My research focuses on advancing vision-language models for open-vocabulary reco
   - AI Generation: Advancing image and text generation, with a focus on aligning both modalities effectively.
   - Dataset, benchmark, and evaluation: Creating datasets and benchmarks for evaluating the performance of vision-language models.
   - Weakly-Supervised and Multimodal Learning: Leveraging weakly supervised learning for grounding visual and textual data.
-  - Semantic Segmentation: Developing techniques for pixel-level classification in images and videos.
+  <!-- - Semantic Segmentation: Developing techniques for pixel-level classification in images and videos.
   - Video Object Segmentation: Advancing the segmentation of objects in dynamic video content.
-  - Biomedical Image Processing: Applying AI techniques to analyze and interpret medical images.
+  - Biomedical Image Processing: Applying AI techniques to analyze and interpret medical images. -->
 
 ## Quick Facts
 
@@ -34,6 +34,7 @@ My research focuses on advancing vision-language models for open-vocabulary reco
 - 🤝 Collaborated with researchers from Amazon, KAUST, and the University of Freiburg
 - 🇨🇴 Colombian, with a background in mathematics and biomedical engineering
 - 🎾💃 Enjoys playing tennis and dancing lindy hop and salsa
+- 🗣️ I speak Spanish, English, German and a little French
 
 ## Selected Publications
 Check out my [Google Scholar profile](https://scholar.google.com/citations?user=2X0a1f8AAAAJ&hl=en) for a complete list of my publications.
@@ -58,9 +59,11 @@ I hold a Bachelor's degree in Mathematics and another in Biomedical Engineering 
 
 ## Scholarships and Grants
 
-- Outstanding Reviewer Award at NeurIPS D&B 2023 and 2022.
-- Deutscher Akademischer Austauschdienst - German Academic Exchange Service (DAAD) Research Grants - Doctoral Programmes in Germany, 2019/20; grant number: 57440921.
-- German-Colombian Academic Cooperation between the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation grant BR 3815/9-1) and Universidad de los Andes, Colombia. 
+- Best Poster Award at the TWiML 2024 workshop presented at NeurIPS WiML.
+Outstanding Reviewer Award at NeurIPS D&B in 2023 and 2022.
+- DAAD Research Grants for Doctoral Programs in Germany (2019/20), grant number 57440921.
+German-Colombian Academic Cooperation between the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation, grant BR 3815/9-1) and the Universidad de los Andes in Colombia.
+- Beca YERLY. Mathematical Program Scholarship for Academic Excellence (2012). Scholarship for Academic Excellence (2012).
 
 ## Teaching
 
