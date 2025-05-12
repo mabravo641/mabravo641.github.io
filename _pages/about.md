@@ -12,7 +12,6 @@ I am also a PhD cadidate in the [Computer Vision group](https://lmb.informatik.u
 
 
 ## Research interests
-======
 My research focuses on advancing vision-language models for open-vocabulary recognition and generative evaluation. I am particularly interested in the intersection of computer vision and natural language processing, with a focus on developing models that can understand and generate visual content in a more human-like manner. 
 
   - Vision-Language Understanding: Integration of visual and linguistic information for multimodal reasoning.
@@ -33,8 +32,8 @@ My research focuses on advancing vision-language models for open-vocabulary reco
 - 🎙️ Presented at conferences: ICLR, CVPR and NeurIPS
 - 📝 Reviewed at NeurIPS, CVPR, ICCV, and TPAMI
 - 🤝 Collaborated with researchers from Amazon, KAUST, and the University of Freiburg
-- 🌍 Colombian, with a background in mathematics and biomedical engineering
-- :sports Enjoys playing tennis and dancing lindy hop and salsa
+- 🇨🇴 Colombian, with a background in mathematics and biomedical engineering
+- 🎾💃 Enjoys playing tennis and dancing lindy hop and salsa
 
 ## Selected Publications
 Check out my [Google Scholar profile](https://scholar.google.com/citations?user=2X0a1f8AAAAJ&hl=en) for a complete list of my publications.
@@ -59,6 +58,22 @@ I hold a Bachelor's degree in Mathematics and another in Biomedical Engineering 
 
 ## Scholarships and Grants
 
-- Outstanding Reviewer Award at NeurIPS 2024.
+- Outstanding Reviewer Award at NeurIPS D&B 2023 and 2022.
 - Deutscher Akademischer Austauschdienst - German Academic Exchange Service (DAAD) Research Grants - Doctoral Programmes in Germany, 2019/20; grant number: 57440921.
 - German-Colombian Academic Cooperation between the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation grant BR 3815/9-1) and Universidad de los Andes, Colombia. 
+
+## Teaching
+
+### Student Supervision
+I have supervised several students in their Bachelor thesis at the University of Freiburg
+
+- Improving Visual Grouping and Visual-Text Alignment for Open-Vocabulary Segmentation (Ayushi Sharma, 2023) - Supervision together with Silvio Galesso
+- Multimodal attribute learning (Anna Stroganova, 2022)
+- Improving Clip-Sentence Retrieval with COOT using large-scale noisy-aligned Training Data (Felix Jablonksi, 2022)
+- Applying Hierarchical Representations from Video Retrieval to Video Captioning (Simon Ging, 2021)
+
+### Teaching Assistant
+- Co-Organizer of the Deep Learning Lab (2021 and 2022 Freiburg)
+- Assistant and Supervisor of the Deep Learning and Computer Vision Seminars (2019 - 2023 Freiburg)
+- Assistant of Image Analysis and Processing (2018 Universidad de los Andes, Colombia)
+- Lecturer of Linear Algebra and Integral Calculus and Differential Equations (before 2018 Universidad de los Andes, Colombia)
