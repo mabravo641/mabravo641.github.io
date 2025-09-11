@@ -34,7 +34,9 @@ My research focuses on advancing vision-language models for open-vocabulary reco
 - 🗣️ I speak Spanish, English, German and a basic French
 
 ## Selected Publications
-Check out my [Google Scholar profile](https://scholar.google.com/citations?user=2X0a1f8AAAAJ&hl=en) for a complete list of my publications.
+See my [Google Scholar profile](https://scholar.google.com/citations?user=2X0a1f8AAAAJ&hl=en) for a complete list of my publications.
+Check out my thesis, which provides a detailed compilation of my Ph.D. work:
+  - [Thesis](https://freidok.uni-freiburg.de/data/269420): Advancing vision-language models for open-vocabulary recognition and generative evaluation
 
   - [TIAlign](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/107639.png?t=1732028406.9390247): Text-Image Concept Human Alignment (WiML NeurIPS Workshop 2024 - Best poster award TWiML 2024)
   - [oVQA](https://github.com/lmb-freiburg/ovqa): Open-ended Visual Question Answering (Spotlight ICLR 2024)
