@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a **Post-Doctoral researcher** in the [Explainable Machine Learning](https://www.eml-munich.de/) group at TUM and Helmholtz Munich, led by Prof. [Zeynep Akata](https://www.eml-munich.de/people/zeynep-akata). 
 
-I am also a PhD cadidate in the [Computer Vision group](https://lmb.informatik.uni-freiburg.de/) at the University of Freiburg, Germany, under the supervision of Prof. [Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/). Expected graduation in May 2025 - [website](https://lmb.informatik.uni-freiburg.de/people/bravoma/).
+I received my PhD in the [Computer Vision group](https://lmb.informatik.uni-freiburg.de/) at the University of Freiburg, Germany, under the supervision of Prof. [Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/). Previous [website](https://lmb.informatik.uni-freiburg.de/people/bravoma/).
 
 
 ## Research interests
@@ -23,7 +23,7 @@ My research focuses on advancing vision-language models for open-vocabulary reco
 
 ## Quick Facts
 
-- 🎓 (Soon) PhD in Computer Science, focused on visual-language models 
+- 🎓 PhD in Computer Science, focused on visual-language models 
 - 📍 Currently based in Munich, Germany
 - 🧑‍🏫 Passionate about teaching and mentoring students
 - 🎙️ Presented at conferences: ICLR, CVPR and NeurIPS
@@ -31,7 +31,7 @@ My research focuses on advancing vision-language models for open-vocabulary reco
 - 🤝 Collaborated with researchers from Amazon, KAUST, and the University of Freiburg
 - 🇨🇴 Colombian, with a background in mathematics and biomedical engineering
 - 🎾💃 Enjoys playing tennis and dancing lindy hop and salsa
-- 🗣️ I speak Spanish, English, German and a little French
+- 🗣️ I speak Spanish, English, German and a basic French
 
 ## Selected Publications
 Check out my [Google Scholar profile](https://scholar.google.com/citations?user=2X0a1f8AAAAJ&hl=en) for a complete list of my publications.
@@ -44,7 +44,7 @@ Check out my [Google Scholar profile](https://scholar.google.com/citations?user=
 ## Biography
 I am a Colombian researcher with a background in computer vision, artificial intelligence and biomedical engineering.
 
-I (will) hold a PhD in Computer Science from the University of Freiburg, Germany, where I am part of the [Computer Vision Group](https://lmb.informatik.uni-freiburg.de/) led by Prof. [Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/). My research focuses on vision-language models, particularly in open-vocabulary recognition and generative evaluation.
+I hold a PhD in Computer Science from the University of Freiburg, Germany, where I am part of the [Computer Vision Group](https://lmb.informatik.uni-freiburg.de/) led by Prof. [Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/). My research focuses on vision-language models, particularly in open-vocabulary recognition and generative evaluation.
 
 During my PhD I did an internship at Amazon in Tübingen, where I worked on Vision-Language alignment and Generative AI with [Betty Mohler](https://scholar.google.com/citations?user=fjAWIaAAAAAJ&hl=en) and [Ali Jahanian](https://scholar.google.com/citations?user=nMpyjcwAAAAJ&hl=en). 
 
