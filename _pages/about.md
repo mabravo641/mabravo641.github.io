@@ -23,7 +23,7 @@ Current topics include:
 
 ## Quick Facts
 
-- 🎓 PhD in Computer Science (*Magna Cum Laude*), University of Freiburg (2025)
+- 🎓 PhD in Computer Science (*Magna Cum Laude*), University of Freiburg (May 2025)
 - 📍 Currently based in Munich, Germany
 - 🏆 Best Poster Award, Tuebingen WiML Workshop 2024, presented at NeurIPS WiML 2024
 - 📝 Outstanding Reviewer, NeurIPS D&B Track 2022 & 2023
