@@ -73,7 +73,7 @@ Before my PhD, I obtained an MSc in Biomedical Engineering at the [Biomedical Co
 
 ### MSc Thesis Supervision
 
-- Sena Korkut — *Modality collapse in traffic accident video QA* (TU Munich, 2026)
+- Sena Korkut — *Modality collapse in traffic accident video QA* (TU Munich, 2026), co-supervised with Sanghwan Kim
 - Ayushi Sharma — *Improving Visual Grouping and Visual-Text Alignment for Open-Vocabulary Segmentation* (Freiburg, 2023), co-supervised with Silvio Galesso
 - Anna Stroganova — *Multimodal attribute learning* (Freiburg, 2022)
 - Felix Jablonski — *Improving CLIP-Sentence Retrieval with COOT using large-scale noisy-aligned Training Data* (Freiburg, 2022)
