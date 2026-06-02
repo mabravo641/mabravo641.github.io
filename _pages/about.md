@@ -26,9 +26,9 @@ Current topics include:
 - 🎓 PhD in Computer Science (*Magna Cum Laude*), University of Freiburg (May 2025)
 - 📍 Currently based in Munich, Germany
 - 🏆 Best Poster Award, Tuebingen WiML Workshop 2024, presented at NeurIPS WiML 2024
-- 📝 Outstanding Reviewer, NeurIPS D&B Track 2022 & 2023
+- 📝 Outstanding Reviewer: NeurIPS D&B Track 2022 & 2023, CVPR 2026
 - 🎙️ Presented at ICLR, CVPR, NeurIPS, and ECCV
-- 📋 Reviewed for NeurIPS (2025), CVPR (2024–2026), ECCV (2022, 2026), ICCV (2025), TPAMI (2022–2023)
+- 📋 Reviewed for NeurIPS (2025-2026), CVPR (2024–2026), ECCV (2022, 2026), ICCV (2025), TPAMI (2022–2023)
 - 🤝 Collaborated with researchers from Amazon, MIT, KAUST, and the University of Freiburg
 - 🇨🇴 Colombian, with a background in mathematics and biomedical engineering
 - 🎾💃 Enjoys playing tennis and dancing lindy hop and salsa
