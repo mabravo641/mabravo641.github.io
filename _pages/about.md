@@ -38,8 +38,10 @@ Current topics include:
 
 See my [Google Scholar profile](https://scholar.google.com/citations?user=GPKSZdcAAAAJ&hl=en) for a complete list of publications.
 
+- **VideoQA Reliability** [From Accuracy to Visual Dependence: Auditing and Filtering Modality Collapse
+in Traffic VideoQA](https://openreview.net/pdf?id=rKWze9irRW) - Korkut, Bravo, Kim, Akata. ICML 2026 Workshop on Combining Theory and Benchmarks: Towards A Virtuous Cycle to Understand and Guarantee Foundation Model Performance.
 - **Stitch**: [Training-Free Position Control in Multimodal Diffusion Transformers](https://arxiv.org/pdf/2509.26644) — Bader, Pach, Bravo, Belongie, Akata. Preprint, 2025.
-- **TIAlign**: [Text-Image Concept Human Alignment](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/107639.png?t=1732028406.9390247) — **Best Poster Award**, NeurIPS WiML Workshop 2024.
+- **TIAlign**: [Text-Image Concept Human Alignment](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/107639.png?t=1732028406.9390247) — Bravo. **Best Poster Award**, NeurIPS WiML Workshop 2024.
 - **OVQA**: [Open-ended VQA benchmarking of Vision-Language Models](https://github.com/lmb-freiburg/ovqa) — Ging\*, Bravo\*, Brox. **Spotlight**, ICLR 2024.
 - **OVAD**: [Open-vocabulary Attribute Detection](https://ovad-benchmark.github.io/) — Bravo, Mittal, Ging, Brox. CVPR 2023.
 - **LocOV**: [Localized Vision-Language Matching for Open-vocabulary Object Detection](https://github.com/lmb-freiburg/locov) — Bravo, Mittal, Brox. GCPR 2022.
