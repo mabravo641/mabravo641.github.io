@@ -50,8 +50,8 @@ in Traffic VideoQA](https://openreview.net/pdf?id=rKWze9irRW) - Korkut, Bravo, K
 Also check out my [PhD thesis](https://freidok.uni-freiburg.de/data/269420): *Advancing vision-language models for open-vocabulary recognition and generative evaluation* (May 2025).
 
 ## Talks
-- Introduction lecture of Seminar in Advanced Topics in Vision-Language Models, Technical Universityof Munich, April 1 2026. [Slides](https://mabravo641.github.io/_pages/https://mabravo641.github.io/)
-- PhD defense May 31 2025, University of Freiburg
+- Introduction lecture of Seminar in Advanced Topics in Vision-Language Models, Technical Universityof Munich, April 1 2026. [Slides](_pages/Lecture-TUM-Seminar-26SS-intro.pdf)
+- PhD defense, University of Freiburg, May 30 2025. [Slides](_pages/Talk_PhD_Dissertation.pdf)
 
 ## Biography
 
