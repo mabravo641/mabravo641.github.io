@@ -49,6 +49,10 @@ in Traffic VideoQA](https://openreview.net/pdf?id=rKWze9irRW) - Korkut, Bravo, K
 
 Also check out my [PhD thesis](https://freidok.uni-freiburg.de/data/269420): *Advancing vision-language models for open-vocabulary recognition and generative evaluation* (May 2025).
 
+## Talks
+- Introduction lecture of Seminar in Advanced Topics in Vision-Language Models, Technical Universityof Munich, April 1 2026. [Slides](https://mabravo641.github.io/_pages/https://mabravo641.github.io/)
+- PhD defense May 31 2025, University of Freiburg
+
 ## Biography
 
 I am a Colombian researcher with a background in computer vision, machine learning, and biomedical engineering.
